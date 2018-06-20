@@ -1,0 +1,7 @@
+### .gitignore
+# aaa001
+# PHPStorm IntelliJ project files
+.idea/
+# NetBeans
+/nbproject/
+
